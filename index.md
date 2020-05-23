@@ -3,7 +3,7 @@
 ### This is where the fun begins 
 Welcome to the celebration of learning **challenge** 2020. Through this challenge your mathematical skills be put to the test.  Select your level: 
 
-* [www.google.ca](Youngling (Division 1))
+* [Youngling (Division 1)](google.ca)
 * (Padawan (Division 2))) 
 * ((Jedi Knight (Division 3)) 
 * (Jedi Master (Divsion 4)) 
