@@ -1,2 +1,3 @@
-Where are we without math. 
+Where would we be without math? 
+
 
