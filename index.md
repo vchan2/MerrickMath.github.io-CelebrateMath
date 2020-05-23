@@ -9,7 +9,7 @@ Welcome to the celebration of learning **challenge** 2020. Through this challeng
 * [Jedi Master (Divsion 4)](Division4.md) 
 * [Master of Mathematics (Only those brave enough)](lit.md)
 
-From all the mathematics masters, May the MA be with you! 
+From all the mathematics masters, may the MA be with you! 
 
 
 
