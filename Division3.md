@@ -1,6 +1,6 @@
 ## Now This Is PODRACING 
 
-<img class="profile" src="https://merrickmath.github.io/MerrickMath.github.io-CelebrateMath/p1.png" alt="Picture" width="800" />
+<img class="profile" src="https://merrickmath.github.io/MerrickMath.github.io-CelebrateMath/banana.png" alt="Picture" width="800" />
 
 Enter password: <input id='password' type='text'  />
 <a href="http://www.google.ca" onclick="javascript:return validatePass()">enter your password and click this</a>
