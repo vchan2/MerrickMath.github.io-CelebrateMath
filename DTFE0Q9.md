@@ -1,4 +1,6 @@
-Ms. Keri has 12 skittles, Ms. Doina has 9 skittles. How many skittles do they have altogether? 
+## CODE: DTFE0Q9
+
+Ms. Keri has 12 skittles, Ms. Doina has 9 skittles. How many skittles do they have altogether?
 
 Onward: <input id='password' type='text'  />
 <a href="https://MerrickMath.github.io/MperrickMath.github.io-CelebrateMath/p2.html" onclick="javascript:return validatePass()">  Click here to submit  </a>
