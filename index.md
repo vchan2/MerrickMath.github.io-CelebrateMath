@@ -4,7 +4,7 @@
 Welcome to the celebration of learning **challenge** 2020. Through this challenge your mathematical skills be put to the test.  Select your level: 
 
 * [The First LEVEL](DTFE0Q9.md)
-* [Div 3 Start](L3Start.md)
+* [Div 3 Start](9GMFA6P.md)
  
 
 
