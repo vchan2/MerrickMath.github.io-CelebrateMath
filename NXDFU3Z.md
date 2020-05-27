@@ -1,6 +1,5 @@
-Welcome to LOCKDOWN Celebration of learning MATH. How far will you get? 
+## Code: NXDFU3Z
 
-## Level 1
 <img class="profile" src="https://merrickmath.github.io/MerrickMath.github.io-CelebrateMath/puzzle1.jpg" alt="Picture" width="500" />
 
 
