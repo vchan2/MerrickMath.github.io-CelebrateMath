@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Level 
 
 #### Mod 12
