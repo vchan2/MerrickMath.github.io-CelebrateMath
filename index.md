@@ -6,7 +6,7 @@ Welcome to the celebration of learning **challenge** 2020. Through this challeng
 * [Youngling (Division 1)](L1Start.md)
 * [Padawan (Division 2)](L2Start.md)
 * [Jedi Knight (Division 3)](L3Start.md)
-* [Jedi Master (Divsion 4)](L3Start.md) 
+* [Jedi Master (Divsion 4)](StickTogether.md) 
 
 From all the mathematics masters, may the MA be with you! 
 
