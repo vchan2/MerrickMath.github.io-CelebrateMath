@@ -1,6 +1,6 @@
 ## Code: TBYIACE
 
-<img class="profile" src="https://merrickmath.github.io/MerrickMath.github.io-CelebrateMath/puzzle1.jpg" alt="Picture" width="500" />
+<img class="profile" src="https://merrickmath.github.io/MerrickMath.github.io-CelebrateMath/space.png" alt="Picture" width="500" />
 
 
 Onward: <input id='password' type='text'  />
