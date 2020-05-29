@@ -5,9 +5,8 @@ Welcome to the celebration of learning **challenge** 2020. Through this challeng
 
 For each grade, the winner will receieve ... 
 
-To submit how far you make it through the maze please fill out the following form. 
+To submit how far you make it through the maze please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfr7_Zks0eltUpaLApShAEcs0hdnXYcVIaiObEUil3DBaoYQg/viewform?usp=sf_link"> following form >
 
-https://docs.google.com/forms/d/e/1FAIpQLSfr7_Zks0eltUpaLApShAEcs0hdnXYcVIaiObEUil3DBaoYQg/viewform?usp=sf_link
 
 Let the adventure begin: 
 * [The First LEVEL](DTFE0Q9.md)
