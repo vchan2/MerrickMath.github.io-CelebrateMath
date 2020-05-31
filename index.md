@@ -12,6 +12,8 @@ Let the adventure begin:
 * [The First LEVEL](DTFE0Q9.md)
 
 <iframe width=100% src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSABs1JVTTg8JbCOBBjTgiqY2lKcqSKFaBHxG7nON6b377Biyf1AMu47zkuyOemIqtrQ7i-0KtZ_2p/pubhtml?gid=1927921562&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+<div class="tenor-gif-embed" data-postid="12605362" data-share-method="host" data-width="100%" data-aspect-ratio="1.2"><a href="https://tenor.com/view/garfield-cats-good-morning-coffee-gif-12605362">Garfield Cats GIF</a> from <a href="https://tenor.com/search/garfield-gifs">Garfield GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
  
 
 
