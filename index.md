@@ -10,6 +10,8 @@ To submit how far you make it through the maze please fill out the <a href="http
 
 Let the adventure begin: 
 * [The First LEVEL](DTFE0Q9.md)
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSABs1JVTTg8JbCOBBjTgiqY2lKcqSKFaBHxG7nON6b377Biyf1AMu47zkuyOemIqtrQ7i-0KtZ_2p/pubhtml?gid=1927921562&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
  
 
 
