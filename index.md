@@ -3,7 +3,7 @@
 ### This is where the fun begins 
 Welcome to the celebration of learning **challenge** 2020. Through this challenge your mathematical skills be put to the test. Problems contained in the maze cover topics from kindergarten mathematics to advanced topics in calculus, probability, number theory, and more. How far will you get? 
 
-For each grade, the winner will receieve SOMETHING COOL, from AARON RENERT, phone his phone to claim reward. 
+For each grade, the winner will receieve SOMETHING COOL, from AARON RENERT, phone his phone to claim reward. In the event of a tie the individual who reaches the highest level **FIRST** is declared the winner.   
 
 To submit how far you make it through the maze please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfr7_Zks0eltUpaLApShAEcs0hdnXYcVIaiObEUil3DBaoYQg/viewform?usp=sf_link"> following form </a>. You do **not** need to submit at every level, only the highest level you achieve. You may submit as many times as you wish. 
 
