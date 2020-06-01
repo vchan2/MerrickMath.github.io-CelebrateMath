@@ -4,7 +4,7 @@
 
 
 Onward: <input id='password' type='text'  />
-<a href="https://MerrickMath.github.io/MerrickMath.github.io-CelebrateMath/9GMFA6P.html" onclick="javascript:return validatePass()">  Click here to submit  </a>
+<a href="https://forms.gle/kGVWWEMmNcFmxmfy6" onclick="javascript:return validatePass()">  Click here to submit  </a>
 <script>
 function validatePass(){
     if(document.getElementById('password').value == '90'){
