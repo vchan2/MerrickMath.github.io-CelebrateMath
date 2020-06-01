@@ -13,6 +13,6 @@ Let the adventure begin:
 * [The First LEVEL](DTFE0Q9.md)
 
 ### LIVE RESULTS (updated roughly every 5 minutes)
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSABs1JVTTg8JbCOBBjTgiqY2lKcqSKFaBHxG7nON6b377Biyf1AMu47zkuyOemIqtrQ7i-0KtZ_2p/pubhtml?gid=904580779&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height = "400"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSABs1JVTTg8JbCOBBjTgiqY2lKcqSKFaBHxG7nON6b377Biyf1AMu47zkuyOemIqtrQ7i-0KtZ_2p/pubhtml?gid=904580779&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height = "700"></iframe>
 
 
