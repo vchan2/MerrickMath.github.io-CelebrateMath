@@ -1,6 +1,6 @@
 ## Code: TVUOEBQ
 
-Find the least common multiple of 2640, 3220
+Find the least common multiple of 2640, 3220. (But where, oh where whould you put your answer...)
 
 <a href="https://vincentchan02.wixsite.com/cosmospuzzle/puzzle0"> Keep on GOING! </a> 
 
