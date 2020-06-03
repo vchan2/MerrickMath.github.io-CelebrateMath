@@ -8,7 +8,9 @@
  <script src="https://www.youtube.com/iframe_api"></script>
  <script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script>
  
- <iframe width="0" height="0" src="https://www.youtube.com/embed/T77mxend4Jw" frameborder="0" allow="accelerometer; autoplay="1"; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ <iframe width="0" height="0" src="https://www.youtube.com/embed/T77mxend4Jw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <div class="tenor-gif-embed" data-postid="13380207" data-share-method="host" data-width="100%" data-aspect-ratio="2.4057971014492754"><a href="https://tenor.com/view/star-wars-anakin-this-is-where-the-fun-begins-gif-13380207">Star Wars Anakin GIF</a> from <a href="https://tenor.com/search/starwars-gifs">Starwars GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
