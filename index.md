@@ -1,13 +1,4 @@
 "Mathematics takes us into the region of absolute necessity, to which not only the actual word, but every possible word, must conform" -Bertrand Russell L
-
-<div data-video="T77mxend4Jw"
-         data-autoplay="1"
-         data-loop="1"
-         id="youtube-audio">
- </div>
- <script src="https://www.youtube.com/iframe_api"></script>
- <script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script>
- 
  
 <iframe width=“560” height=“315" src=“https://www.youtube.com/embed/T77mxend4Jw?rel=0;&autoplay=1&mute=1&loop=1&playlist=iG9CE55wbtY” frameborder=“0" allowfullscreen include></iframe>
 
@@ -30,5 +21,12 @@ Let the adventure begin:
 
 
 
-
+<div data-video="T77mxend4Jw"
+         data-autoplay="1"
+         data-loop="1"
+         id="youtube-audio">
+ </div>
+ <script src="https://www.youtube.com/iframe_api"></script>
+ <script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script>
+ 
 
