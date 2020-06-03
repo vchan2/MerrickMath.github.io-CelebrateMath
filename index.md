@@ -1,6 +1,12 @@
 "Mathematics takes us into the region of absolute necessity, to which not only the actual word, but every possible word, must conform" -Bertrand Russell L
 
-<embed height="0" width="0" src="http://youtube.googleapis.com/v/VIDEO_T77mxend4Jw&autoplay=1&loop=1" />
+<div data-video="T77mxend4Jw"
+         data-autoplay="1"
+         data-loop="1"
+         id="youtube-audio">
+ </div>
+ <script src="https://www.youtube.com/iframe_api"></script>
+ <script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script>
 
 <div class="tenor-gif-embed" data-postid="13380207" data-share-method="host" data-width="100%" data-aspect-ratio="2.4057971014492754"><a href="https://tenor.com/view/star-wars-anakin-this-is-where-the-fun-begins-gif-13380207">Star Wars Anakin GIF</a> from <a href="https://tenor.com/search/starwars-gifs">Starwars GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
@@ -18,12 +24,5 @@ Let the adventure begin:
 ### LIVE RESULTS (updated roughly every 5 minutes)
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSABs1JVTTg8JbCOBBjTgiqY2lKcqSKFaBHxG7nON6b377Biyf1AMu47zkuyOemIqtrQ7i-0KtZ_2p/pubhtml?gid=904580779&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height = "600"></iframe>
 
- <div data-video="T77mxend4Jw"
-         data-autoplay="1"
-         data-loop="1"
-         id="youtube-audio">
-  </div>
-  <script src="https://www.youtube.com/iframe_api"></script>
-  <script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script>
 
 
