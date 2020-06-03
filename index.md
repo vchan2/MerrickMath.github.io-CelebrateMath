@@ -2,6 +2,8 @@
 
 <div class="tenor-gif-embed" data-postid="13380207" data-share-method="host" data-width="100%" data-aspect-ratio="2.4057971014492754"><a href="https://tenor.com/view/star-wars-anakin-this-is-where-the-fun-begins-gif-13380207">Star Wars Anakin GIF</a> from <a href="https://tenor.com/search/starwars-gifs">Starwars GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
+<embed height="20" src="africa.m4a" volume="50" loop="true" controls="console" autostart="TRUE" width="128" PLUGINSPAGE="http://www.apple.com/quicktime/download/win.html"></embed>
+
 Welcome to the celebration of learning **challenge** 2020. Through this challenge your mathematical skills be put to the test. Problems contained in the maze cover topics from kindergarten mathematics to advanced topics in calculus, probability, number theory, and more. How far will you get? 
 
 For each grade, the winner will receieve SOMETHING COOL, from AARON RENERT, phone his phone to claim reward. In the event of a tie the individual who reaches the highest level **FIRST** is declared the winner.   
