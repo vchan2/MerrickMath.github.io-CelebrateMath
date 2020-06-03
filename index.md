@@ -1,4 +1,4 @@
-"Mathematics takes us into the region of absolute necessity, to which not only the actual word, but every possible word, must conform" -Bertrand Russell 
+"Mathematics takes us into the region of absolute necessity, to which not only the actual word, but every possible word, must conform" -Bertrand Russell L
 
 <embed height="0" width="0" src="http://youtube.googleapis.com/v/VIDEO_T77mxend4Jw&autoplay=1&loop=1" />
 
