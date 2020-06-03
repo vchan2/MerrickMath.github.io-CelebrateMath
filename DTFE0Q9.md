@@ -17,3 +17,5 @@ function validatePass(){
 }
 </script>
 
+
+<div class="tenor-gif-embed" data-postid="13086789" data-share-method="host" data-width="100%" data-aspect-ratio="1.4285714285714286"><a href="https://tenor.com/view/stuff-skittles-gif-13086789">Stuff Skittles GIF</a> from <a href="https://tenor.com/search/stuff-gifs">Stuff GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
