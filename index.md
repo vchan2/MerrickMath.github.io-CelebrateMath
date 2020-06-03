@@ -9,7 +9,7 @@
  <source src="africa.m4a" autoplay>
 </audio>
 
-<iframe src="africa.mp3" allow="autoplay" id="audio" style="display: none"></iframe>
+Hello World
 
 Welcome to the celebration of learning **challenge** 2020. Through this challenge your mathematical skills be put to the test. Problems contained in the maze cover topics from kindergarten mathematics to advanced topics in calculus, probability, number theory, and more. How far will you get? 
 
