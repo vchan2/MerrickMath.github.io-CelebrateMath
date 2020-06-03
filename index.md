@@ -9,8 +9,6 @@
  <source src="africa.m4a" autoplay>
 </audio>
 
-Hello World
-
 Welcome to the celebration of learning **challenge** 2020. Through this challenge your mathematical skills be put to the test. Problems contained in the maze cover topics from kindergarten mathematics to advanced topics in calculus, probability, number theory, and more. How far will you get? 
 
 For each grade, the winner will receieve SOMETHING COOL, from AARON RENERT, phone his phone to claim reward. In the event of a tie the individual who reaches the highest level **FIRST** is declared the winner.   
