@@ -3,7 +3,7 @@
 <div class="tenor-gif-embed" data-postid="13380207" data-share-method="host" data-width="100%" data-aspect-ratio="2.4057971014492754"><a href="https://tenor.com/view/star-wars-anakin-this-is-where-the-fun-begins-gif-13380207">Star Wars Anakin GIF</a> from <a href="https://tenor.com/search/starwars-gifs">Starwars GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <audio controls autoplay> 
- <source src="africa.m4a" controls>
+ <source src="africa.m4a">
 </audio>
 
 <iframe src="africa.mp3" allow="autoplay" id="audio" style="display: none"></iframe>
