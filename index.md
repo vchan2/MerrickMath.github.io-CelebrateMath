@@ -5,8 +5,8 @@
 
 <iframe src="silence.mp3" allow="autoplay" id="audio" style="display: none"></iframe>
 
-<audio controls autoplay> 
- <source src="africa.m4a" autoplay>
+<audio id="player" autoplay loop>
+    <source src="africa.mp3" type="audio/m4a">
 </audio>
 
 Welcome to the celebration of learning **challenge** 2020. Through this challenge your mathematical skills be put to the test. Problems contained in the maze cover topics from kindergarten mathematics to advanced topics in calculus, probability, number theory, and more. How far will you get? 
