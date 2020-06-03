@@ -17,7 +17,7 @@ Let the adventure begin:
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSABs1JVTTg8JbCOBBjTgiqY2lKcqSKFaBHxG7nON6b377Biyf1AMu47zkuyOemIqtrQ7i-0KtZ_2p/pubhtml?gid=904580779&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height = "600"></iframe>
 
  <div data-video="VIDEO_ID"
-         data-autoplay="0"
+         data-autoplay="1"
          data-loop="1"
          id="youtube-audio">
   </div>
