@@ -6,7 +6,7 @@ Welcome to the celebration of learning **challenge** 2020. Through this challeng
 
 For each grade, the winner will receive something REAL COOL of YOUR CHOICE from Master Aaron. In the event of a tie the individual who reaches the highest level **FIRST** is declared the winner.   
 
-To submit how far you make it through the maze please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfr7_Zks0eltUpaLApShAEcs0hdnXYcVIaiObEUil3DBaoYQg/viewform?usp=sf_link"> following form </a>. You do **not** need to submit at every level, only the highest level you achieve. You may submit as many times as you wish. 
+To submit how far you make it through the maze, please fill out this form: <a href="https://tinyurl.com/cosmos2020challenge">https://tinyurl.com/cosmos2020challenge</a>. You do **not** need to submit at every level, only the highest level you achieve. You may submit as many times as you wish. 
 
 **Scores will be finalized Friday, June 12 at 3:30 pm**
 
