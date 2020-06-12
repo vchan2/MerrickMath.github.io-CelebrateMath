@@ -8,7 +8,7 @@ For each grade, the winner will receive something REAL COOL of YOUR CHOICE from 
 
 To submit how far you make it through the maze, please fill out this form: <a href="https://tinyurl.com/cosmos2020challenge">https://tinyurl.com/cosmos2020challenge</a>. You do **not** need to submit at every level, only the highest level you achieve. You may submit as many times as you wish. 
 
-**Scores will be finalized Friday, June 12 at 3:30 pm**
+**Scores will be finalized ~~Friday, June 12~~ Monday, June 15 at 3:30 pm** (Dr. Renert has issued an extension to this challenge so that people can work on it during the weekend!)
 
 Let the adventure begin: 
 * [The First LEVEL](DTFE0Q9.md)
